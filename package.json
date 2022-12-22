@@ -1,0 +1,27 @@
+{
+  "name": "proyectobasededatos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesusmmen28/proyectoBaseDeDatos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesusmmen28/proyectoBaseDeDatos/issues"
+  },
+  "homepage": "https://github.com/jesusmmen28/proyectoBaseDeDatos#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.3.3"
+  }
+}
